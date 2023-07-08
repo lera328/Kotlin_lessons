@@ -1,7 +1,5 @@
 package lesson_1
 
-import java.util.Date
-
 fun main() {
 
     val seconds:Short = 6480
