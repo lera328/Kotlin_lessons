@@ -2,10 +2,10 @@ package lesson_3
 
 fun main() {
     var welcome: String
-    val userName: String="Валерия"
+    val userName: String = "Валерия"
 
-    welcome="Добрый день, $userName!"
+    welcome = "Добрый день, $userName!"
     println(welcome)
-    welcome="Добрый вечер, $userName!"
+    welcome = "Добрый вечер, $userName!"
     print(welcome)
 }
