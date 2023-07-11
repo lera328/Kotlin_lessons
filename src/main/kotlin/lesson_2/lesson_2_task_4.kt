@@ -1,7 +1,5 @@
 package lesson_2
 
-import kotlin.time.times
-
 fun main() {
     val crystalMineralCount: Int = 7
     val ironMineralCount: Int = 11
