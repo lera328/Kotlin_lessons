@@ -5,9 +5,9 @@ fun main() {
     var moveTo: String = "E4"
     var moveNumber: Int = 1
 
-    println("$moveFrom-$moveTo; $moveNumber")
+    println("$moveFrom-$moveTo;$moveNumber")
     moveFrom = "D2"
     moveTo = "D${2 + 1}"
-    moveNumber += 1
-    println("$moveFrom-$moveTo; $moveNumber")
+    moveNumber++
+    println("$moveFrom-$moveTo;$moveNumber")
 }
